@@ -702,7 +702,7 @@
 					"maxclass" : "pictctrl",
 					"mode" : 1,
 					"multiplier" : 1,
-					"name" : "purpleswitch.pct",
+					"name" : "purpleswitch.png",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
@@ -2040,10 +2040,17 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "purpleswitch.pct",
+				"name" : "xy_bgd.png",
 				"bootpath" : "~/Google drive/max/Jasper",
 				"patcherrelativepath" : ".",
-				"type" : "PICT",
+				"type" : "PNG",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "purpleswitch.png",
+				"bootpath" : "~/Google drive/max/Jasper",
+				"patcherrelativepath" : ".",
+				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
