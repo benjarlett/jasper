@@ -1,0 +1,1 @@
+1, 1-guitar.wav !!up;2, 15guitarHI.wav !!up;3, 2-guitar2.wav !!up;4, 3-guitar3.wav !!up;5, 5-gitNba2.wav !!up;6, 6-gitNbas.wav !!up;7, 7-BasSyn.wav !!up;8, 8-midsec.wav !!up;9, 9-pick1.wav !!up;10, a-pick2.wav !!up;11, b-pick3.wav !!up;12, f-endbit.wav !!up;

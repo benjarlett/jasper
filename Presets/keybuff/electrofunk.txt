@@ -1,0 +1,1 @@
+1, beep1.aif !techno;2, beep2.aif !techno;3, beep3.aif !techno;4, beep4.aif !techno;5, fenix1.aif !afx;6, fenix2.aif !afx;7, fenix3.aif !afx;8, fenix4.aif !afx;9, stepping1.aif !afx;10, stepping2.aif !afx;11, stepping3.aif !afx;12, stepping4.aif !afx;

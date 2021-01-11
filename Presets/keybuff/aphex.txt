@@ -1,0 +1,1 @@
+1, afxtaking1.aif !afx;2, afxtaking2.aif !afx;3, afxtaking3.aif !afx;4, afxtaking4.aif !afx;5, afxtimetofindme.aif !afx;6, afxtimetofindme2.aif !afx;7, afxtimetofindmelong.aif !afx;8, afxlimetofindmevox.aif !afx;9, afxnannou1.aif !afx;10, afxnannou2.aif !afx;11, "afxon no d.aif" !afx;12, "afxon no tune.aif" !afx;

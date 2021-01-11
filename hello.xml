@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "hello">
+	<slot number = "1">
+		<pattr name = "basscutoff" value = "71" />
+		<pattr name = "bassrange" value = "127" />
+		<pattr name = "basssmooth" value = "127" />
+		<pattr name = "cent" value = "35" />
+		<pattr name = "centbias" value = "76" />
+		<pattr name = "centsmooth" value = "0" />
+		<pattr name = "treblecutoff" value = "0" />
+		<pattr name = "treblerange" value = "127" />
+		<pattr name = "treblesmooth" value = "19" />
+		<patcher name = "bcf2000">
+			<pattr name = "slider" value = "1" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "basscutoff" value = "127" />
+		<pattr name = "bassrange" value = "97" />
+		<pattr name = "basssmooth" value = "127" />
+		<pattr name = "cent" value = "61" />
+		<pattr name = "centbias" value = "127" />
+		<pattr name = "centsmooth" value = "0" />
+		<pattr name = "treblecutoff" value = "0" />
+		<pattr name = "treblerange" value = "48" />
+		<pattr name = "treblesmooth" value = "23" />
+		<patcher name = "bcf2000">
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<pattr name = "basscutoff" value = "127" />
+		<pattr name = "bassrange" value = "110" />
+		<pattr name = "basssmooth" value = "38" />
+		<pattr name = "cent" value = "61" />
+		<pattr name = "centbias" value = "127" />
+		<pattr name = "centsmooth" value = "0" />
+		<pattr name = "treblecutoff" value = "83" />
+		<pattr name = "treblerange" value = "109" />
+		<pattr name = "treblesmooth" value = "23" />
+		<patcher name = "bcf2000">
+		</patcher>
+	</slot>
+</pattrstorage>
+

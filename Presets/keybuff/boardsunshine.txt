@@ -1,0 +1,1 @@
+1, sunshine1.aif boards;2, sunshine3.aif boards;3, sunshine4.aif boards;4, sunshine5.aif boards;5, sunshine6.aif boards;6, ffunkybt51.wav @funky;7, ffunkybt32.wav @funky;8, bllstmp.wav @funky;9, jt1lotsaride.wav @Jazzy;10, jt21RimNbass.wav @Jazzy;11, "Better With Brushes.wav" @Jazzy;12, jt5FourBySixRoller.wav @Jazzy;

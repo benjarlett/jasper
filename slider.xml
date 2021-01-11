@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "slider">
+	<slot number = "1">
+		<pattr name = "audioresp1" value = "1" />
+		<pattr name = "audioresp2" value = "2" />
+		<pattr name = "audioresp3" value = "3" />
+		<pattr name = "d1" value = "0" />
+		<pattr name = "d2" value = "0" />
+		<pattr name = "d3" value = "0" />
+		<pattr name = "d4" value = "0" />
+		<pattr name = "d5" value = "0" />
+		<pattr name = "d6" value = "0" />
+		<pattr name = "d7" value = "0" />
+		<pattr name = "d8" value = "0" />
+		<pattr name = "di1" value = "0" />
+		<pattr name = "di2" value = "0" />
+		<pattr name = "di3" value = "0" />
+		<pattr name = "di4" value = "0" />
+		<pattr name = "di5" value = "0" />
+		<pattr name = "di6" value = "0" />
+		<pattr name = "di7" value = "0" />
+		<pattr name = "di8" value = "0" />
+		<pattr name = "dialchooser4" value = "3" />
+		<pattr name = "dialchooser5" value = "3" />
+		<pattr name = "dialchooser6" value = "3" />
+		<pattr name = "dialchooser7" value = "3" />
+		<pattr name = "dialchooser8" value = "3" />
+		<pattr name = "drh4" value = "127" />
+		<pattr name = "drh5" value = "127" />
+		<pattr name = "drh6" value = "127" />
+		<pattr name = "drh7" value = "127" />
+		<pattr name = "drh8" value = "127" />
+		<pattr name = "drl4" value = "0" />
+		<pattr name = "drl5" value = "0" />
+		<pattr name = "drl6" value = "0" />
+		<pattr name = "drl7" value = "0" />
+		<pattr name = "drl8" value = "0" />
+		<pattr name = "meter1" value = "0" />
+		<pattr name = "meter2" value = "0" />
+		<pattr name = "meter3" value = "0" />
+		<pattr name = "slide1" value = "61 0" />
+		<pattr name = "slide2" value = "0 0" />
+		<pattr name = "slide3" value = "0 0" />
+		<pattr name = "slide4" value = "0 0" />
+		<pattr name = "slide5" value = "0 0" />
+		<pattr name = "slide6" value = "0 0" />
+		<pattr name = "slide7" value = "0 0" />
+		<pattr name = "slide8" value = "0 0" />
+		<pattr name = "slider1" value = "0" />
+		<pattr name = "slider1chooser" value = "3" />
+		<pattr name = "slider2" value = "0" />
+		<pattr name = "slider2chooser" value = "3" />
+		<pattr name = "slider3" value = "0" />
+		<pattr name = "slider3chooser" value = "3" />
+		<pattr name = "slider4" value = "0" />
+		<pattr name = "slider4chooser" value = "3" />
+		<pattr name = "slider5" value = "0" />
+		<pattr name = "slider5chooser" value = "3" />
+		<pattr name = "slider6" value = "0" />
+		<pattr name = "slider6chooser" value = "3" />
+		<pattr name = "slider7" value = "0" />
+		<pattr name = "slider7chooser" value = "3" />
+		<pattr name = "slider8" value = "0" />
+		<pattr name = "slider8chooser" value = "3" />
+		<pattr name = "srh1" value = "127" />
+		<pattr name = "srh2" value = "127" />
+		<pattr name = "srh3" value = "127" />
+		<pattr name = "srh4" value = "127" />
+		<pattr name = "srh5" value = "127" />
+		<pattr name = "srh6" value = "127" />
+		<pattr name = "srh7" value = "127" />
+		<pattr name = "srh8" value = "127" />
+		<pattr name = "srl1" value = "0" />
+		<pattr name = "srl18" value = "0" />
+		<pattr name = "srl2" value = "0" />
+		<pattr name = "srl3" value = "0" />
+		<pattr name = "srl4" value = "0" />
+		<pattr name = "srl5" value = "0" />
+		<pattr name = "srl6" value = "0" />
+		<pattr name = "srl7" value = "0" />
+		<pattr name = "sw1" value = "0" />
+		<pattr name = "sw10" value = "0" />
+		<pattr name = "sw11" value = "0" />
+		<pattr name = "sw12" value = "0" />
+		<pattr name = "sw13" value = "0" />
+		<pattr name = "sw14" value = "0" />
+		<pattr name = "sw15" value = "0" />
+		<pattr name = "sw16" value = "0" />
+		<pattr name = "sw2" value = "0" />
+		<pattr name = "sw3" value = "0" />
+		<pattr name = "sw4" value = "0" />
+		<pattr name = "sw5" value = "0" />
+		<pattr name = "sw6" value = "0" />
+		<pattr name = "sw7" value = "0" />
+		<pattr name = "sw8" value = "0" />
+		<pattr name = "sw9" value = "0" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "d1" value = "0" />
+		<pattr name = "d2" value = "0" />
+		<pattr name = "d3" value = "0" />
+		<pattr name = "d4" value = "0" />
+		<pattr name = "d5" value = "0" />
+		<pattr name = "d6" value = "1" />
+		<pattr name = "d7" value = "0" />
+		<pattr name = "d8" value = "0" />
+		<pattr name = "di1" value = "0" />
+		<pattr name = "di2" value = "0" />
+		<pattr name = "di3" value = "0" />
+		<pattr name = "di4" value = "0" />
+		<pattr name = "di5" value = "0" />
+		<pattr name = "di6" value = "1" />
+		<pattr name = "di7" value = "0" />
+		<pattr name = "di8" value = "0" />
+		<pattr name = "dialchooser4" value = "0" />
+		<pattr name = "dialchooser5" value = "0" />
+		<pattr name = "dialchooser6" value = "0" />
+		<pattr name = "dialchooser7" value = "0" />
+		<pattr name = "dialchooser8" value = "0" />
+		<pattr name = "slide1" value = "0 60" />
+		<pattr name = "slide2" value = "0 61" />
+		<pattr name = "slide3" value = "0 82" />
+		<pattr name = "slide4" value = "0 75" />
+		<pattr name = "slide5" value = "0 75" />
+		<pattr name = "slide6" value = "0 78" />
+		<pattr name = "slide7" value = "0 0" />
+		<pattr name = "slide8" value = "0 0" />
+		<pattr name = "slider1" value = "60" />
+		<pattr name = "slider2" value = "61" />
+		<pattr name = "slider2chooser" value = "0" />
+		<pattr name = "slider3" value = "82" />
+		<pattr name = "slider4" value = "75" />
+		<pattr name = "slider5" value = "75" />
+		<pattr name = "slider6" value = "78" />
+		<pattr name = "slider7" value = "0" />
+		<pattr name = "slider8" value = "0" />
+		<pattr name = "sw1" value = "0" />
+		<pattr name = "sw10" value = "0" />
+		<pattr name = "sw11" value = "0" />
+		<pattr name = "sw12" value = "0" />
+		<pattr name = "sw13" value = "0" />
+		<pattr name = "sw14" value = "0" />
+		<pattr name = "sw15" value = "0" />
+		<pattr name = "sw16" value = "0" />
+		<pattr name = "sw2" value = "0" />
+		<pattr name = "sw3" value = "0" />
+		<pattr name = "sw4" value = "0" />
+		<pattr name = "sw5" value = "0" />
+		<pattr name = "sw6" value = "0" />
+		<pattr name = "sw7" value = "0" />
+		<pattr name = "sw8" value = "0" />
+		<pattr name = "sw9" value = "0" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "d1" value = "127" />
+		<pattr name = "d2" value = "127" />
+		<pattr name = "d3" value = "127" />
+		<pattr name = "d4" value = "127" />
+		<pattr name = "d5" value = "127" />
+		<pattr name = "d6" value = "127" />
+		<pattr name = "d7" value = "127" />
+		<pattr name = "d8" value = "127" />
+		<pattr name = "di1" value = "127" />
+		<pattr name = "di2" value = "127" />
+		<pattr name = "di3" value = "127" />
+		<pattr name = "di4" value = "127" />
+		<pattr name = "di5" value = "127" />
+		<pattr name = "di6" value = "127" />
+		<pattr name = "di7" value = "127" />
+		<pattr name = "di8" value = "127" />
+		<pattr name = "dialchooser4" value = "0" />
+		<pattr name = "dialchooser5" value = "0" />
+		<pattr name = "dialchooser6" value = "0" />
+		<pattr name = "dialchooser7" value = "0" />
+		<pattr name = "dialchooser8" value = "0" />
+		<pattr name = "slide1" value = "0 127" />
+		<pattr name = "slide2" value = "0 127" />
+		<pattr name = "slide3" value = "0 127" />
+		<pattr name = "slide4" value = "0 127" />
+		<pattr name = "slide5" value = "0 127" />
+		<pattr name = "slide6" value = "0 127" />
+		<pattr name = "slide7" value = "0 127" />
+		<pattr name = "slide8" value = "0 127" />
+		<pattr name = "slider1" value = "127" />
+		<pattr name = "slider2" value = "127" />
+		<pattr name = "slider2chooser" value = "0" />
+		<pattr name = "slider3" value = "127" />
+		<pattr name = "slider4" value = "127" />
+		<pattr name = "slider5" value = "127" />
+		<pattr name = "slider6" value = "127" />
+		<pattr name = "slider7" value = "127" />
+		<pattr name = "slider8" value = "127" />
+		<pattr name = "sw1" value = "0" />
+		<pattr name = "sw10" value = "0" />
+		<pattr name = "sw11" value = "0" />
+		<pattr name = "sw12" value = "0" />
+		<pattr name = "sw13" value = "0" />
+		<pattr name = "sw14" value = "0" />
+		<pattr name = "sw15" value = "0" />
+		<pattr name = "sw16" value = "0" />
+		<pattr name = "sw2" value = "0" />
+		<pattr name = "sw3" value = "0" />
+		<pattr name = "sw4" value = "0" />
+		<pattr name = "sw5" value = "0" />
+		<pattr name = "sw6" value = "0" />
+		<pattr name = "sw7" value = "0" />
+		<pattr name = "sw8" value = "0" />
+		<pattr name = "sw9" value = "0" />
+	</slot>
+</pattrstorage>
+

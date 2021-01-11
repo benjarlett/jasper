@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "Jasp_preset">
+	<slot number = "1">
+		<pattr name = "bar_f" value = "0" />
+		<pattr name = "bonk_fb" value = "0.6" />
+		<pattr name = "bonk_m" value = "1" />
+		<pattr name = "bonkholdcontrol" value = "0" />
+		<pattr name = "bonkitcontrol" value = "0" />
+		<pattr name = "bonktypecontrol" value = "0" />
+		<pattr name = "buf_f" value = "0" />
+		<pattr name = "filt1" value = "25.790722 1.326012 1.18909" />
+		<pattr name = "filt2" value = "13000. 0.805361 1.069388" />
+		<pattr name = "filt3" value = "743.567383 1.033451 1.126726" />
+		<pattr name = "filt4" value = "314.688049 0.356217 1.446284" />
+		<pattr name = "filt5" value = "2163.341553 0.340571 0.611861" />
+		<pattr name = "grain_e" value = "0.08" />
+		<pattr name = "grain_n" value = "2 0" />
+		<pattr name = "grain_r" value = "0" />
+		<pattr name = "pit" value = "1.00012" />
+		<pattr name = "rec16" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+		<pattr name = "reverse" value = "0" />
+		<pattr name = "stop" value = "0" />
+		<pattr name = "stop_s" value = "32" />
+		<pattr name = "sw_a" value = "0" />
+		<pattr name = "v_l" value = "10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10" />
+		<pattr name = "v_r" value = "1." />
+		<pattr name = "xy_x" value = "0." />
+		<pattr name = "xy_y" value = "0." />
+		<patcher name = "recycler.mxb">
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "bar_f" value = "0" />
+		<pattr name = "bonk_fb" value = "0.6" />
+		<pattr name = "bonk_m" value = "1" />
+		<pattr name = "bonkholdcontrol" value = "0" />
+		<pattr name = "bonkitcontrol" value = "0" />
+		<pattr name = "bonktypecontrol" value = "0" />
+		<pattr name = "buf_f" value = "0" />
+		<pattr name = "filt1" value = "25.790722 1.326012 1.18909" />
+		<pattr name = "filt2" value = "13000. 0.805361 1.069388" />
+		<pattr name = "filt3" value = "743.567383 1.033451 1.126726" />
+		<pattr name = "filt4" value = "314.688049 0.356217 1.446284" />
+		<pattr name = "filt5" value = "2163.341553 0.340571 0.611861" />
+		<pattr name = "grain_e" value = "0.08" />
+		<pattr name = "grain_n" value = "2 0" />
+		<pattr name = "grain_r" value = "0" />
+		<pattr name = "pit" value = "1.00012" />
+		<pattr name = "rec16" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+		<pattr name = "reverse" value = "0" />
+		<pattr name = "stop" value = "0" />
+		<pattr name = "stop_s" value = "32" />
+		<pattr name = "sw_a" value = "0" />
+		<pattr name = "v_l" value = "10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10" />
+		<pattr name = "v_r" value = "1." />
+		<pattr name = "xy_x" value = "-0.5" />
+		<pattr name = "xy_y" value = "0.5" />
+		<patcher name = "recycler.mxb">
+			<pattr name = "16slider[1]" value = "16" />
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<pattr name = "bar_f" value = "0" />
+		<pattr name = "bonk_fb" value = "0.6" />
+		<pattr name = "bonk_m" value = "1" />
+		<pattr name = "bonkholdcontrol" value = "0" />
+		<pattr name = "bonkitcontrol" value = "0" />
+		<pattr name = "bonktypecontrol" value = "0" />
+		<pattr name = "buf_f" value = "0" />
+		<pattr name = "filt1" value = "29.321924 3.042335 1.18909" />
+		<pattr name = "filt2" value = "13000. 0.805361 1.069388" />
+		<pattr name = "filt3" value = "743.567383 1.033451 1.126726" />
+		<pattr name = "filt4" value = "314.688049 0.356217 1.446284" />
+		<pattr name = "filt5" value = "2163.341553 0.340571 0.611861" />
+		<pattr name = "grain_e" value = "0.08" />
+		<pattr name = "grain_n" value = "1 0" />
+		<pattr name = "grain_r" value = "0" />
+		<pattr name = "pit" value = "1.00012" />
+		<pattr name = "rec16" value = "0 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1" />
+		<pattr name = "reverse" value = "0" />
+		<pattr name = "stop" value = "0" />
+		<pattr name = "stop_s" value = "32" />
+		<pattr name = "sw_a" value = "0" />
+		<pattr name = "v_l" value = "10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10" />
+		<pattr name = "v_r" value = "1." />
+		<pattr name = "xy_x" value = "0." />
+		<pattr name = "xy_y" value = "0." />
+		<patcher name = "recycler.mxb">
+			<pattr name = "16slider[1]" value = "16" />
+		</patcher>
+	</slot>
+	<slot number = "4">
+		<pattr name = "bar_f" value = "0" />
+		<pattr name = "bonk_fb" value = "0.6" />
+		<pattr name = "bonk_m" value = "1" />
+		<pattr name = "bonkholdcontrol" value = "0" />
+		<pattr name = "bonkitcontrol" value = "0" />
+		<pattr name = "bonktypecontrol" value = "0" />
+		<pattr name = "buf_f" value = "0" />
+		<pattr name = "filt1" value = "25.790722 1.326012 1.18909" />
+		<pattr name = "filt2" value = "13000. 0.805361 1.069388" />
+		<pattr name = "filt3" value = "743.567383 1.033451 1.126726" />
+		<pattr name = "filt4" value = "314.688049 0.356217 1.446284" />
+		<pattr name = "filt5" value = "2163.341553 0.340571 0.611861" />
+		<pattr name = "grain_e" value = "0.08" />
+		<pattr name = "grain_n" value = "2 0" />
+		<pattr name = "grain_r" value = "0" />
+		<pattr name = "pit" value = "1.00012" />
+		<pattr name = "rec16" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+		<pattr name = "reverse" value = "0" />
+		<pattr name = "stop" value = "1" />
+		<pattr name = "stop_s" value = "32" />
+		<pattr name = "sw_a" value = "0" />
+		<pattr name = "v_l" value = "10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10" />
+		<pattr name = "v_r" value = "1." />
+		<pattr name = "xy_x" value = "0." />
+		<pattr name = "xy_y" value = "0." />
+		<patcher name = "recycler.mxb">
+			<pattr name = "16slider[1]" value = "-1" />
+		</patcher>
+	</slot>
+	<slot number = "5">
+		<pattr name = "bar_f" value = "0" />
+		<pattr name = "bonk_fb" value = "0.6" />
+		<pattr name = "bonk_m" value = "1" />
+		<pattr name = "bonkholdcontrol" value = "0" />
+		<pattr name = "bonkitcontrol" value = "0" />
+		<pattr name = "bonktypecontrol" value = "0" />
+		<pattr name = "buf_f" value = "0" />
+		<pattr name = "filt1" value = "25.790722 1.326012 1.18909" />
+		<pattr name = "filt2" value = "13000. 0.805361 1.069388" />
+		<pattr name = "filt3" value = "1065.413696 3.902713 1.126726" />
+		<pattr name = "filt4" value = "314.688049 0.356217 1.446284" />
+		<pattr name = "filt5" value = "2163.341553 0.340571 0.611861" />
+		<pattr name = "grain_e" value = "0.08" />
+		<pattr name = "grain_n" value = "2 0" />
+		<pattr name = "grain_r" value = "0" />
+		<pattr name = "pit" value = "1.00012" />
+		<pattr name = "rec16" value = "0 1 2 0 1 2 4 4 0 1 2 0 1 2 5 5" />
+		<pattr name = "reverse" value = "0" />
+		<pattr name = "stop" value = "0" />
+		<pattr name = "stop_s" value = "32" />
+		<pattr name = "sw_a" value = "0" />
+		<pattr name = "v_l" value = "10 10 9 9 9 8 8 7 6 4 3 2 1 0 0 0" />
+		<pattr name = "v_r" value = "16." />
+		<pattr name = "xy_x" value = "0." />
+		<pattr name = "xy_y" value = "0." />
+		<patcher name = "recycler.mxb">
+			<pattr name = "16slider[1]" value = "9" />
+		</patcher>
+	</slot>
+	<slot number = "6">
+		<pattr name = "bar_f" value = "0" />
+		<pattr name = "bonk_fb" value = "0.6" />
+		<pattr name = "bonk_m" value = "1" />
+		<pattr name = "bonkholdcontrol" value = "0" />
+		<pattr name = "bonkitcontrol" value = "0" />
+		<pattr name = "bonktypecontrol" value = "0" />
+		<pattr name = "buf_f" value = "0" />
+		<pattr name = "filt1" value = "31.252382 2.371555 1.18909" />
+		<pattr name = "filt2" value = "5052.344727 0.681965 1.069388" />
+		<pattr name = "filt3" value = "789.518799 1.701265 1.126726" />
+		<pattr name = "filt4" value = "314.688049 0.356217 1.446284" />
+		<pattr name = "filt5" value = "2163.341553 0.340571 0.611861" />
+		<pattr name = "grain_e" value = "0.08" />
+		<pattr name = "grain_n" value = "2 0" />
+		<pattr name = "grain_r" value = "0" />
+		<pattr name = "pit" value = "1.00012" />
+		<pattr name = "rec16" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+		<pattr name = "reverse" value = "0" />
+		<pattr name = "stop" value = "0" />
+		<pattr name = "stop_s" value = "32" />
+		<pattr name = "sw_a" value = "66" />
+		<pattr name = "v_l" value = "10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10" />
+		<pattr name = "v_r" value = "1." />
+		<pattr name = "xy_x" value = "0." />
+		<pattr name = "xy_y" value = "4.5" />
+		<patcher name = "recycler.mxb">
+			<pattr name = "16slider[1]" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "11">
+		<pattr name = "bar_f" value = "0" />
+		<pattr name = "bonk_fb" value = "0.6" />
+		<pattr name = "bonk_m" value = "1" />
+		<pattr name = "bonkholdcontrol" value = "0" />
+		<pattr name = "bonkitcontrol" value = "0" />
+		<pattr name = "bonktypecontrol" value = "0" />
+		<pattr name = "buf_f" value = "0" />
+		<pattr name = "filt1" value = "25.790722 1.326012 1.18909" />
+		<pattr name = "filt2" value = "13000. 0.805361 1.069388" />
+		<pattr name = "filt3" value = "743.567383 1.033451 1.126726" />
+		<pattr name = "filt4" value = "314.688049 0.356217 1.446284" />
+		<pattr name = "filt5" value = "2163.341553 0.340571 0.611861" />
+		<pattr name = "grain_e" value = "0.08" />
+		<pattr name = "grain_n" value = "4 0" />
+		<pattr name = "grain_r" value = "1" />
+		<pattr name = "pit" value = "1.00012" />
+		<pattr name = "rec16" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+		<pattr name = "reverse" value = "0" />
+		<pattr name = "stop" value = "0" />
+		<pattr name = "stop_s" value = "32" />
+		<pattr name = "sw_a" value = "0" />
+		<pattr name = "v_l" value = "10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10" />
+		<pattr name = "v_r" value = "1." />
+		<pattr name = "xy_x" value = "0." />
+		<pattr name = "xy_y" value = "0." />
+		<patcher name = "recycler.mxb">
+		</patcher>
+	</slot>
+	<slot number = "12">
+		<pattr name = "bar_f" value = "0" />
+		<pattr name = "bonk_fb" value = "0.6" />
+		<pattr name = "bonk_m" value = "1" />
+		<pattr name = "bonkholdcontrol" value = "0" />
+		<pattr name = "bonkitcontrol" value = "0" />
+		<pattr name = "bonktypecontrol" value = "0" />
+		<pattr name = "buf_f" value = "0" />
+		<pattr name = "filt1" value = "25.790722 1.326012 1.18909" />
+		<pattr name = "filt2" value = "13000. 0.805361 1.069388" />
+		<pattr name = "filt3" value = "2948.50293 5.439546 1.126726" />
+		<pattr name = "filt4" value = "314.688049 0.356217 1.446284" />
+		<pattr name = "filt5" value = "2163.341553 0.340571 0.611861" />
+		<pattr name = "grain_e" value = "0.08" />
+		<pattr name = "grain_n" value = "2 0" />
+		<pattr name = "grain_r" value = "0" />
+		<pattr name = "pit" value = "1.00012" />
+		<pattr name = "rec16" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+		<pattr name = "reverse" value = "0" />
+		<pattr name = "stop" value = "0" />
+		<pattr name = "stop_s" value = "32" />
+		<pattr name = "sw_a" value = "0" />
+		<pattr name = "v_l" value = "10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10" />
+		<pattr name = "v_r" value = "1." />
+		<pattr name = "xy_x" value = "0." />
+		<pattr name = "xy_y" value = "0." />
+		<patcher name = "recycler.mxb">
+		</patcher>
+	</slot>
+	<slot number = "13">
+		<pattr name = "bar_f" value = "0" />
+		<pattr name = "bonk_fb" value = "0.6" />
+		<pattr name = "bonk_m" value = "1" />
+		<pattr name = "bonkholdcontrol" value = "0" />
+		<pattr name = "bonkitcontrol" value = "0" />
+		<pattr name = "bonktypecontrol" value = "0" />
+		<pattr name = "buf_f" value = "0" />
+		<pattr name = "filt1" value = "25.790722 1.326012 1.18909" />
+		<pattr name = "filt2" value = "13000. 0.805361 1.069388" />
+		<pattr name = "filt3" value = "743.567383 1.033451 1.126726" />
+		<pattr name = "filt4" value = "314.688049 0.356217 1.446284" />
+		<pattr name = "filt5" value = "2163.341553 0.340571 0.611861" />
+		<pattr name = "grain_e" value = "0.08" />
+		<pattr name = "grain_n" value = "2 0" />
+		<pattr name = "grain_r" value = "1" />
+		<pattr name = "pit" value = "1.00012" />
+		<pattr name = "rec16" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+		<pattr name = "reverse" value = "0" />
+		<pattr name = "stop" value = "0" />
+		<pattr name = "stop_s" value = "32" />
+		<pattr name = "sw_a" value = "0" />
+		<pattr name = "v_l" value = "10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10" />
+		<pattr name = "v_r" value = "1." />
+		<pattr name = "xy_x" value = "0." />
+		<pattr name = "xy_y" value = "0." />
+		<patcher name = "recycler.mxb">
+		</patcher>
+	</slot>
+	<slot number = "14">
+		<pattr name = "bar_f" value = "0" />
+		<pattr name = "bonk_fb" value = "0.6" />
+		<pattr name = "bonk_m" value = "1" />
+		<pattr name = "bonkholdcontrol" value = "0" />
+		<pattr name = "bonkitcontrol" value = "0" />
+		<pattr name = "bonktypecontrol" value = "0" />
+		<pattr name = "buf_f" value = "0" />
+		<pattr name = "filt1" value = "25.790722 1.326012 1.18909" />
+		<pattr name = "filt2" value = "13000. 0.805361 1.069388" />
+		<pattr name = "filt3" value = "743.567383 1.033451 1.126726" />
+		<pattr name = "filt4" value = "314.688049 0.356217 1.446284" />
+		<pattr name = "filt5" value = "2163.341553 0.340571 0.611861" />
+		<pattr name = "grain_e" value = "0.08" />
+		<pattr name = "grain_n" value = "2 0" />
+		<pattr name = "grain_r" value = "0" />
+		<pattr name = "pit" value = "1.00012" />
+		<pattr name = "rec16" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+		<pattr name = "reverse" value = "1" />
+		<pattr name = "stop" value = "1" />
+		<pattr name = "stop_s" value = "32" />
+		<pattr name = "sw_a" value = "0" />
+		<pattr name = "v_l" value = "10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10" />
+		<pattr name = "v_r" value = "1." />
+		<pattr name = "xy_x" value = "0." />
+		<pattr name = "xy_y" value = "0." />
+		<patcher name = "recycler.mxb">
+			<pattr name = "16slider[1]" value = "-1" />
+		</patcher>
+	</slot>
+	<slot number = "15">
+		<pattr name = "bar_f" value = "0" />
+		<pattr name = "bonk_fb" value = "0.6" />
+		<pattr name = "bonk_m" value = "1" />
+		<pattr name = "bonkholdcontrol" value = "0" />
+		<pattr name = "bonkitcontrol" value = "0" />
+		<pattr name = "bonktypecontrol" value = "0" />
+		<pattr name = "buf_f" value = "0" />
+		<pattr name = "filt1" value = "25.790722 1.326012 1.18909" />
+		<pattr name = "filt2" value = "5052.344727 0.681965 1.069388" />
+		<pattr name = "filt3" value = "2058.868164 1.56567 1.126726" />
+		<pattr name = "filt4" value = "314.688049 0.356217 1.446284" />
+		<pattr name = "filt5" value = "2163.341553 0.340571 0.611861" />
+		<pattr name = "grain_e" value = "0.08" />
+		<pattr name = "grain_n" value = "2 0" />
+		<pattr name = "grain_r" value = "0" />
+		<pattr name = "pit" value = "1.00012" />
+		<pattr name = "rec16" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+		<pattr name = "reverse" value = "0" />
+		<pattr name = "stop" value = "0" />
+		<pattr name = "stop_s" value = "32" />
+		<pattr name = "sw_a" value = "66" />
+		<pattr name = "v_l" value = "10 10 10 10 10 10 10 10 0 0 0 0 0 0 0 0" />
+		<pattr name = "v_r" value = "16." />
+		<pattr name = "xy_x" value = "0." />
+		<pattr name = "xy_y" value = "4.5" />
+		<patcher name = "recycler.mxb">
+			<pattr name = "16slider[1]" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "16">
+		<pattr name = "bar_f" value = "0" />
+		<pattr name = "bonk_fb" value = "0.6" />
+		<pattr name = "bonk_m" value = "1" />
+		<pattr name = "bonkholdcontrol" value = "0" />
+		<pattr name = "bonkitcontrol" value = "0" />
+		<pattr name = "bonktypecontrol" value = "0" />
+		<pattr name = "buf_f" value = "0" />
+		<pattr name = "filt1" value = "25.790722 1.326012 1.18909" />
+		<pattr name = "filt2" value = "13000. 0.805361 1.069388" />
+		<pattr name = "filt3" value = "1131.201294 26.324261 1.126726" />
+		<pattr name = "filt4" value = "314.688049 0.356217 1.446284" />
+		<pattr name = "filt5" value = "2163.341553 0.340571 0.611861" />
+		<pattr name = "grain_e" value = "0.08" />
+		<pattr name = "grain_n" value = "2 0" />
+		<pattr name = "grain_r" value = "0" />
+		<pattr name = "pit" value = "1.00012" />
+		<pattr name = "rec16" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+		<pattr name = "reverse" value = "0" />
+		<pattr name = "stop" value = "0" />
+		<pattr name = "stop_s" value = "32" />
+		<pattr name = "sw_a" value = "66" />
+		<pattr name = "v_l" value = "10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10" />
+		<pattr name = "v_r" value = "1." />
+		<pattr name = "xy_x" value = "0." />
+		<pattr name = "xy_y" value = "4.5" />
+		<patcher name = "recycler.mxb">
+			<pattr name = "16slider[1]" value = "16" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

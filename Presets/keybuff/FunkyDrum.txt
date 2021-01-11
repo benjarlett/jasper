@@ -1,0 +1,12 @@
+1, "Bart Stone3.wav" @funky;
+2, beat-1.wav @funky;
+3, beat_2.wav @funky;
+4, bllstmp.wav @funky;
+5, breaks6.wav @funky;
+6, breaks7.wav @funky;
+7, dc2-15aaa.WAV @funky;
+8, ffunkybt32.wav @funky;
+9, ffunkybt4.wav @funky;
+10, ffunkybt51.wav @funky;
+11, ffunkybt65.wav @funky;
+12, funkybt27.wav @funky;

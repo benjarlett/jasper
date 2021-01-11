@@ -1,0 +1,5 @@
+JoeVJ, c:/stuff/sexpixels/source/;
+milesVJ, e:/sexpixels/source/;
+JoeJasper, C:/stuff/!supercasiobrothers/source/samples/;
+BenJasper, C:/stuff/supercasiobrothers/source/samples/;
+JoeNV, c:/stuff/NakedVoices/source/;

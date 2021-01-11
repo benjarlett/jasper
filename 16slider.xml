@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "16slider[1]">
+	<slot number = "1">
+		<pattr name = "16slider" value = "0 1 2 3 4 5 0 1 2 3 4 5 14 13 14 15" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "16slider" value = "0 1 2 3 0 5 6 7 0 9 10 11 0 13 14 15" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "16slider" value = "0 16 16 16 16 16 0 16 16 16 16 16 4 16 16 16" />
+	</slot>
+	<slot number = "4">
+		<pattr name = "16slider" value = "0 16 2 16 4 16 6 16 8 16 10 16 12 16 14 16" />
+	</slot>
+	<slot number = "5">
+		<pattr name = "16slider" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+	</slot>
+	<slot number = "6">
+		<pattr name = "16slider" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+	</slot>
+	<slot number = "7">
+		<pattr name = "16slider" value = "1 2 3 3 4 8 8 6 7 8 5 10 11 12 14 16" />
+	</slot>
+	<slot number = "8">
+		<pattr name = "16slider" value = "7 7 7 7 4 4 4 4 4 4 7 9 9 9 9 0" />
+	</slot>
+	<slot number = "9">
+		<pattr name = "16slider" value = "0 1 2 0 1 2 4 4 0 1 2 0 1 2 5 5" />
+	</slot>
+	<slot number = "10">
+		<pattr name = "16slider" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+	</slot>
+	<slot number = "11">
+		<pattr name = "16slider" value = "0 1 16 16 16 16 0 1 16 16 16 16 4 5 16 16" />
+	</slot>
+	<slot number = "12">
+		<pattr name = "16slider" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+	</slot>
+	<slot number = "13">
+		<pattr name = "16slider" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+	</slot>
+	<slot number = "14">
+		<pattr name = "16slider" value = "0 1 2 3 4 5 6 7 8 9 10 11 8 9 10 11" />
+	</slot>
+	<slot number = "15">
+		<pattr name = "16slider" value = "0 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1" />
+	</slot>
+	<slot number = "16">
+		<pattr name = "16slider" value = "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15" />
+	</slot>
+</pattrstorage>
+

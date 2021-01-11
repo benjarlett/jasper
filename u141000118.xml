@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "u141000118">
+	<slot number = "1">
+		<patcher name = "adsrcontrol">
+			<pattr name = "a" value = "0" />
+			<pattr name = "d" value = "0" />
+			<pattr name = "r" value = "0" />
+			<pattr name = "s" value = "56" />
+		</patcher>
+		<patcher name = "adsrcontrol[1]">
+			<pattr name = "a" value = "0" />
+			<pattr name = "d" value = "0" />
+			<pattr name = "r" value = "0" />
+			<pattr name = "s" value = "0" />
+		</patcher>
+		<patcher name = "adsrcontrol[2]">
+			<pattr name = "a" value = "0" />
+			<pattr name = "d" value = "0" />
+			<pattr name = "r" value = "0" />
+			<pattr name = "s" value = "0" />
+		</patcher>
+		<patcher name = "adsrcontrol[3]">
+			<pattr name = "a" value = "0" />
+			<pattr name = "d" value = "0" />
+			<pattr name = "r" value = "0" />
+			<pattr name = "s" value = "0" />
+		</patcher>
+		<patcher name = "adsrcontrol[4]">
+			<pattr name = "a" value = "0" />
+			<pattr name = "d" value = "0" />
+			<pattr name = "r" value = "0" />
+			<pattr name = "s" value = "0" />
+		</patcher>
+		<patcher name = "adsrcontrol[5]">
+			<pattr name = "a" value = "0" />
+			<pattr name = "d" value = "0" />
+			<pattr name = "r" value = "0" />
+			<pattr name = "s" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<patcher name = "adsrcontrol">
+			<pattr name = "a" value = "0" />
+			<pattr name = "d" value = "0" />
+			<pattr name = "r" value = "0" />
+			<pattr name = "s" value = "127" />
+		</patcher>
+		<patcher name = "adsrcontrol[1]">
+			<pattr name = "a" value = "0" />
+			<pattr name = "d" value = "0" />
+			<pattr name = "r" value = "0" />
+			<pattr name = "s" value = "0" />
+		</patcher>
+		<patcher name = "adsrcontrol[2]">
+			<pattr name = "a" value = "0" />
+			<pattr name = "d" value = "0" />
+			<pattr name = "r" value = "0" />
+			<pattr name = "s" value = "0" />
+		</patcher>
+		<patcher name = "adsrcontrol[3]">
+			<pattr name = "a" value = "0" />
+			<pattr name = "d" value = "0" />
+			<pattr name = "r" value = "0" />
+			<pattr name = "s" value = "0" />
+		</patcher>
+		<patcher name = "adsrcontrol[4]">
+			<pattr name = "a" value = "0" />
+			<pattr name = "d" value = "0" />
+			<pattr name = "r" value = "0" />
+			<pattr name = "s" value = "0" />
+		</patcher>
+		<patcher name = "adsrcontrol[5]">
+			<pattr name = "a" value = "0" />
+			<pattr name = "d" value = "0" />
+			<pattr name = "r" value = "0" />
+			<pattr name = "s" value = "0" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "imprint">
+	<slot number = "1">
+		<patcher name = "bcf2000">
+			<pattr name = "ch81" value = "127" />
+			<pattr name = "ch82" value = "0" />
+			<pattr name = "ch83" value = "0" />
+			<pattr name = "ch84" value = "0" />
+			<pattr name = "ch85" value = "0" />
+			<pattr name = "ch86" value = "0" />
+			<pattr name = "ch87" value = "0" />
+			<pattr name = "ch88" value = "127" />
+			<pattr name = "slide1" value = "0 127" />
+			<pattr name = "slide2" value = "0 0" />
+			<pattr name = "slide3" value = "0 0" />
+			<pattr name = "slide4" value = "0 0" />
+			<pattr name = "slide5" value = "0 0" />
+			<pattr name = "slide6" value = "0 0" />
+			<pattr name = "slide7" value = "0 0" />
+			<pattr name = "slide8" value = "0 127" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

@@ -1,0 +1,1 @@
+1, flypanam.aif !rock;2, flypanamjiggy.aif !rock;3, flypanamjiggy2.aif !rock;4, flypanamjiggy3.aif !rock;5, flypanamjiggy4.aif !rock;6, si1.aif !rock;7, si2.aif !rock;8, si3.aif !rock;9, stranglersbass.aif !rock;10, stranglersintro.aif !rock;11, stranglersvox.aif !rock;12, "Amen 1.wav" @jungle;

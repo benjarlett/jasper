@@ -1,0 +1,1 @@
+1, ffunkybt32.wav @funky;2, ffunkybt4.wav @funky;3, ffunkybt51.wav @funky;4, ffunkybt65.wav @funky;5, funkybt27.wav @funky;6, jt10.wav @funky;7, jt7O.wav @funky;8, planet041.wav @funky;9, planet32.wav @funky;10, planet33.wav @funky;11, "Smooth1 Brk.wav" @funky;12, "Bart Stone3.wav" @funky;

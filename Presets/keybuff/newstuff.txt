@@ -1,0 +1,1 @@
+1, CoffVDrums.aif radialfreesamples;2, DjangoMyTeeth.wav newstuff;3, DjangoMyTeeth2.wav newstuff;4, JazzyDnB.wav newstuff;5, JazzyDnB2.wav newstuff;6, JazzyDnB3.wav newstuff;7, JazzyDnB4.wav newstuff;8, RedRat.wav newstuff;9, RedRat2.wav newstuff;10, tango2bar.wav newstuff;11, tambura.aif radialfreesamples;12, kwno.untitled.end radialfreesamples;

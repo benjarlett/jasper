@@ -1,0 +1,1 @@
+1, casiochorus.aif !Casio;2, casioclick.aif !Casio;3, "casiodrums and bass.aif" !Casio;4, casiodrums.aif !Casio;5, casiofastbit.aif !Casio;6, casiofunkybit.aif !Casio;7, casiointro.aif !Casio;8, casioistloop.aif !Casio;9, "casiomarios a psycho.aif" !Casio;10, "casiotune 3.aif" !Casio;11, "casiotune end.aif" !Casio;12, casiotune1.aif !Casio;

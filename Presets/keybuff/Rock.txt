@@ -1,0 +1,12 @@
+1, stranglersintro.aif !rock;
+2, stranglersvox.aif !rock;
+3, Fugazi1.wav !rock;
+4, Fugazi2.wav !rock;
+5, GayBar1.wav !rock;
+6, GayBar2.wav !rock;
+7, JimiHandrix1.wav !rock;
+8, Nirvana.wav !rock;
+9, PJHarvey1.wav !rock;
+10, Shellac1.wav !rock;
+11, Shellac2.wav !rock;
+12, bjo_safeintro.wav !pop;

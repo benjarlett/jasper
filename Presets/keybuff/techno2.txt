@@ -1,0 +1,1 @@
+1, sqp_theme1.aif !techno;2, sqp_theme2.aif !techno;3, sqp_theme3.aif !techno;4, sqp_theme4.aif !techno;5, "afx kick.aif" !afx;6, "afx thing.aif" !afx;7, afxheliosphan.aif !afx;8, afxxtalend.aif !afx;9, afxXtalintro.aif !afx;10, afxxtalvox.aif !afx;11, "I'm yours for laptop gig.wav" @FxnVox;12, plane_announcement.aif @FxnVox;

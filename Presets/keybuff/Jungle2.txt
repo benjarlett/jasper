@@ -1,0 +1,12 @@
+1, "break7 1.wav" @jungle;
+2, "break9 1.wav" @jungle;
+3, "BRK_lofijungle 1.wav" @jungle;
+4, "Chatter Brk 1.wav" @jungle;
+5, "chriscym 1.wav" @jungle;
+6, "Doom Rattle 1.wav" @jungle;
+7, drm-brk-fky-planet25.wav @jungle;
+8, drm-brk-fky-planet26.wav @jungle;
+9, drm-brk-fky-planet30.wav @jungle;
+10, "drumloop19 1.wav" @jungle;
+11, "Even Brk.wav" @jungle;
+12, "Fdrummer4var 1.wav" @jungle;
